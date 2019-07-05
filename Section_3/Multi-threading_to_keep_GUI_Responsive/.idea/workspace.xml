@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8a1e28b-edb1-49e4-ac93-652220ddbb55" name="Default" comment="" />
+    <list default="true" id="8026d54b-992d-4827-85f4-18e13941055d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,20 +10,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Decoupling_PythonCode_From_UiCode$Decouple_code_from_ui.coverage" NAME="Decouple_code_from_ui Coverage Results" MODIFIED="1562058945425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Decoupling_PythonCode_From_UiCode$_MainWindow.coverage" NAME=".MainWindow Coverage Results" MODIFIED="1562052028877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Decoupling_PythonCode_From_UiCode$Test.coverage" NAME="Test Coverage Results" MODIFIED="1562049804281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Decoupling_PythonCode_From_UiCode$MainWindow.coverage" NAME="MainWindow Coverage Results" MODIFIED="1562058645961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Multi_threading_to_keep_GUI_Responsive$1_4_Layout_of_widgets.coverage" NAME="1_4_Layout_of_widgets Coverage Results" MODIFIED="1562311859954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_1" />
+    <SUITE FILE_PATH="coverage/Multi_threading_to_keep_GUI_Responsive$Designer_GUI_3.coverage" NAME="Designer_GUI_3 Coverage Results" MODIFIED="1562311982353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_2" />
+    <SUITE FILE_PATH="coverage/Multi_threading_to_keep_GUI_Responsive$FINAL_EXE.coverage" NAME="FINAL_EXE Coverage Results" MODIFIED="1562313018537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Multi_threading_to_keep_GUI_Responsive$1_2_ImportingClassesOfPyQt5.coverage" NAME="1_2_ImportingClassesOfPyQt5 Coverage Results" MODIFIED="1562311792197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_1" />
+    <SUITE FILE_PATH="coverage/Multi_threading_to_keep_GUI_Responsive$Dialog.coverage" NAME="Dialog Coverage Results" MODIFIED="1562311998154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_2" />
+    <SUITE FILE_PATH="coverage/Multi_threading_to_keep_GUI_Responsive$1_1_CreatingFirstPyQt5Window.coverage" NAME="1_1_CreatingFirstPyQt5Window Coverage Results" MODIFIED="1562311785572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_1" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Decouple_code_from_ui.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Decouple_code_from_ui.py">
+    <leaf>
+      <file leaf-file-name="FINAL_EXE.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FINAL_EXE.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="267">
+              <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
               <folding>
-                <element signature="e#0#36#0" expanded="true" />
+                <element signature="e#61#71#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -32,8 +34,8 @@
       <file leaf-file-name="MainWindow.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MainWindow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-185">
-              <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+            <state relative-caret-position="199">
+              <caret line="122" column="68" selection-start-line="122" selection-start-column="63" selection-end-line="122" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -47,12 +49,15 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>icon</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Test.py" />
-        <option value="$PROJECT_DIR$/.MainWindow.py" />
-        <option value="$PROJECT_DIR$/Decouple_code_from_ui.py" />
+        <option value="$PROJECT_DIR$/FINAL_EXE.py" />
       </list>
     </option>
   </component>
@@ -72,8 +77,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
+    <option name="x" value="1818" />
+    <option name="y" value="-16" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
@@ -82,31 +87,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Decoupling_PythonCode_From_UiCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Decoupling_PythonCode_From_UiCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Multi-threading_to_keep_GUI_Responsive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Multi-threading_to_keep_GUI_Responsive" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Building_A_Complex_GUI" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Drag_and_Drop_Final_Section3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Taylor\PycharmProjects\Python_Projects\Decoupling_PythonCode_From_UiCode" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,66 +120,85 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Decouple_code_from_ui">
-    <configuration name="Decouple_code_from_ui" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Decoupling_PythonCode_From_UiCode" />
+  <component name="RunManager" selected="Python.FINAL_EXE">
+    <configuration name="1_2_ImportingClassesOfPyQt5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multi-threading_to_keep_GUI_Responsive" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_1" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decouple_code_from_ui.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_1/1_2_ImportingClassesOfPyQt5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="MainWindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Decoupling_PythonCode_From_UiCode" />
+    <configuration name="1_4_Layout_of_widgets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multi-threading_to_keep_GUI_Responsive" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_1" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MainWindow.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_1/1_4_Layout_of_widgets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Decoupling_PythonCode_From_UiCode" />
+    <configuration name="Designer_GUI_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multi-threading_to_keep_GUI_Responsive" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_2" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_2/Designer_GUI_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name=".MainWindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Decoupling_PythonCode_From_UiCode" />
+    <configuration name="Dialog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multi-threading_to_keep_GUI_Responsive" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_2/Dialog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="FINAL_EXE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multi-threading_to_keep_GUI_Responsive" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -191,24 +210,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.MainWindow.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FINAL_EXE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Test" />
-      <item itemvalue="Python..MainWindow" />
-      <item itemvalue="Python.Decouple_code_from_ui" />
-      <item itemvalue="Python.MainWindow" />
+      <item itemvalue="Python.1_2_ImportingClassesOfPyQt5" />
+      <item itemvalue="Python.1_4_Layout_of_widgets" />
+      <item itemvalue="Python.Designer_GUI_3" />
+      <item itemvalue="Python.Dialog" />
+      <item itemvalue="Python.FINAL_EXE" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Decouple_code_from_ui" />
-        <item itemvalue="Python.MainWindow" />
-        <item itemvalue="Python..MainWindow" />
-        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.FINAL_EXE" />
+        <item itemvalue="Python.Dialog" />
+        <item itemvalue="Python.Designer_GUI_3" />
+        <item itemvalue="Python.1_4_Layout_of_widgets" />
+        <item itemvalue="Python.1_2_ImportingClassesOfPyQt5" />
       </list>
     </recent_temporary>
   </component>
@@ -217,28 +238,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c8a1e28b-edb1-49e4-ac93-652220ddbb55" name="Default" comment="" />
-      <created>1561511556661</created>
+      <changelist id="8026d54b-992d-4827-85f4-18e13941055d" name="Default" comment="" />
+      <created>1562302890370</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561511556661</updated>
+      <updated>1562302890370</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32943678" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32939914" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20415778" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.6772429" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -258,47 +280,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../LearningPyQt5/MainWindow.py">
+    <entry file="file://$PROJECT_DIR$/../Drag_and_Drop_Final_Section3/MainWindow.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../LearningPyQt5/MainWindow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-487" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.MainWindow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_1/1_1_CreatingFirstPyQt5Window.py" />
+    <entry file="file://$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_1/1_2_ImportingClassesOfPyQt5.py" />
+    <entry file="file://$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_1/1_4_Layout_of_widgets.py" />
+    <entry file="file://$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_2/Designer_GUI_3.py" />
+    <entry file="file://$PROJECT_DIR$/../../Section 1&amp;2/LearningPyQt5/Section_2/Dialog.py" />
     <entry file="file://$PROJECT_DIR$/MainWindow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-185">
-          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+        <state relative-caret-position="199">
+          <caret line="122" column="68" selection-start-line="122" selection-start-column="63" selection-end-line="122" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../.MainWindow.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Decouple_code_from_ui.py">
+    <entry file="file://$PROJECT_DIR$/FINAL_EXE.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="267">
+          <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#61#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
